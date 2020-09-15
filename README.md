@@ -7,5 +7,6 @@ Objectives:
 Exploring the time difference (~50%) between vectorized vs iterated computation. Try running for differnt input shapes and plottingt the rate of change of time difference WRT input size.
 Run Vectorization_sample.py for the base code template
 
-## TODO 
-Coming up with curve smoothening and bias correction soon !
+## Curve smoothening
+Using exponential weighted averages (used in ADAM and RMSprop optimizers) to find approximate gradient values.
+![Momentum for cureve smoothening](https://github.com/EpcLoler/benchmark_DL/blob/master/plot_momentum_2.png)
