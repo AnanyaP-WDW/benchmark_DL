@@ -1,6 +1,6 @@
 # benchmark_DL
 Objectives:
-1) Quantifying different approaches when coding deep neural networks from scratch using NumPy.
+1) Quantifying different approaches when coding deep neural networks from scratch using only NumPy.
 2) Exploring and tinkering different directions in DL like curve smoothening, optimization etc.
 3) Exploring PyTorch.
 4) Having fun!
